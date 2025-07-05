@@ -13,6 +13,6 @@
 内容丰富，涵盖经典影片和最新热门作品，完全免费且不需要任何支付。平台通过广告支持，让你在观看时无需担心额外费用。
 此外，这些平台注重隐私保护，采用HTTPS加密确保个人信息安全。界面简洁且操作便捷，强大的搜索功能帮助你快速找到自己喜爱的影片，享受无广告、无干扰的观影体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hh20250705/hh11 ）</span>
 
 
